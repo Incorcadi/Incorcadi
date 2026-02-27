@@ -40,7 +40,7 @@
 
 ## 📌 Featured projects
 > Pinned repositories on my profile (examples):
-- 🧬 **Universal Parser Framework** — fetch → parse → validate → dedupe → store → export (CLI + logs) [/Incorcadi/shopify-price-monitor](/Incorcadi/shopify-price-monitor)
+- 🧬 **Universal Parser Framework** — fetch → parse → validate → dedupe → store → export (CLI + logs) [shopify-price-monitor](/Incorcadi/shopify-price-monitor)
 - 🛒 **Price Monitor** — tracks changes and sends alerts + diff reports
 - 📄 **PDF Table Extractor** — converts PDF tables into clean CSV/XLSX
 - 🔁 **n8n Templates** — ready-to-use automation chains (webhooks, schedulers, notifications)
